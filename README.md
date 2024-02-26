@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Angular typescript**
+- 🌱 I’m currently learning **Angular, typescript**
 
 - 📫 How to reach me **ivansoca26@gmail.com**
 
