@@ -3,8 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif">
 
-<p><strong>I am currently training in the field of web development and technology<strong></p>
-<p>in general, trying to improve my skills and always learn new things!</p>
+<p><strong>I am currently training in the field of web development and technolog in general, trying to improve my skills and always learn new things!y<strong></p>
+
 
 
 - 🌱 I’m currently learning **Angular typescript**
