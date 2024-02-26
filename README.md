@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif">
 
-<p><strong>I am currently training in the field of web development and technology in general, trying to improve my skills and always learn new things!y<strong></p>
+<p><strong>Hi! My name is Iván Soca and I'm currently training in the field of web development and technology in general, trying to improve my skills and always learn new things!<strong></p>
 
 
 
@@ -23,3 +23,9 @@
 <h3 align="left">Currently learning</h3>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+
+<h3 align="left">Languages I speak:</h3>
+<p>•Spanish(native)</p>
+<p>•English</p>
+
+
