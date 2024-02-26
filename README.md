@@ -1,4 +1,4 @@
-# <h1 align="left">Hi!, I'm Iván Soca</h1>
+<h1 align="left">Hi!, I'm Iván Soca</h1>
 <h3 align="left">Front-end developer trainee</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif">
