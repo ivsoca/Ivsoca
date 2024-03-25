@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **Angular, typescript.**
+- 🌱 I’m currently learning **React, typescript.**
 
 - 📫 How to reach me **ivansoca26@gmail.com**
 
@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Currently learning</h3>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="[https://angular.io/assets/images/logos/angular/angular.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)" alt="angular" width="40" height="40"/>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 
